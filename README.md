@@ -9,7 +9,7 @@ _Last updated: 2025-12-12_
 ---
 
 ## Overview  
-This project contains the Azure Functions used by the **AFHP News Site**. <br/>
+This project contains the Azure Functions used by the **AFHP News Site**.  <br/>
 The functions run independently from the main web application and handle automated tasks such as newsletters, archiving, image resizing, and API data collection.
 
 ---
