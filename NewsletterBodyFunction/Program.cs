@@ -85,7 +85,7 @@ using (var tempProvider = builder.Services.BuildServiceProvider())
     Console.WriteLine($"SmtpServer: {options.SmtpServer}");
     Console.WriteLine($"SmtpPort: {options.SmtpPort}");
     Console.WriteLine($"SmtpUsername: {options.SmtpUsername}");
-    Console.WriteLine("SmtpPassword: ******** (masked)");
+    
     Console.WriteLine("======================================");
 
     if (string.IsNullOrWhiteSpace(options.FromEmail) ||
