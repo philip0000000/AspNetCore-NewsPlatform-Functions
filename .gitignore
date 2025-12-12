@@ -425,3 +425,8 @@ local.settings.json
 # Azurite emulator data 
 azurite/ 
 __azurite_db_*.json 
+
+# Azurite local storage folders 
+__blobstorage__/ 
+__queuestorage__/ 
+__tablestorage__/ 
