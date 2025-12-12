@@ -3,13 +3,13 @@ _Serverless background tasks for the AFHP News Site_
 
 _Last updated: 2025-12-12_
 
-**This repository is a sanitized personal copy maintained for portfolio purposes.**
+**This repository is a sanitized personal copy maintained for portfolio purposes.** <br/>
 (See https://github.com/philip0000000/AspNetCore-NewsPlatform for the project this project is assosiated with)
 
 ---
 
 ## Overview  
-This project contains the Azure Functions used by the **AFHP News Site**.  <br/>
+This project contains the Azure Functions used by the **AFHP News Site**.
 The functions run independently from the main web application and handle automated tasks such as newsletters, archiving, image resizing, and API data collection.
 
 ---
