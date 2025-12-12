@@ -1,7 +1,10 @@
 # AFHP_NewsSite_Functions  
 _Serverless background tasks for the AFHP News Site_
 
-_Last updated: 2025-12-11_
+_Last updated: 2025-12-12_
+
+**This repository is a sanitized personal copy maintained for portfolio purposes.**
+(See https://github.com/philip0000000/AspNetCore-NewsPlatform for the project this project is assosiated with)
 
 ---
 
